@@ -6,7 +6,6 @@ import sys
 
 
 def nuclearEnergy(namefile):
-    print(f"name file : {namefile}")
     mol = load_one(namefile)
 
 
